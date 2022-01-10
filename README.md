@@ -3,6 +3,7 @@
 #### |计算|     
 
 #### |IO|  
+- [IO延迟时间概念 . Jeff Dean](https://github.com/colin-scott/interactive_latencies)
 
 #### |网络|   
 
