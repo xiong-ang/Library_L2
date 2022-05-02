@@ -18,6 +18,7 @@
   - [ACL访问控制表](https://help.aliyun.com/document_detail/174232.html)
   - [RBAC基于角色权限控制](https://help.aliyun.com/document_detail/174234.html)
   - [ABAC基于属性权限控制](https://help.aliyun.com/document_detail/174235.html)
+* [Go错误处理模式](https://github.com/xiong-ang/error_handle)
 
 ## 算法    
 
